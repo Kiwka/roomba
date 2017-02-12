@@ -14,7 +14,7 @@
 To run tests run `npm tests` in the root folder of the project
 
 ## How to view result online
-1) Visit https://kiwka.github.io/roomba/build/index.html.
+1) Visit https://kiwka.github.io/roomba/.
 
 ## Ideas what should be improved in the future
  - UI of the app
